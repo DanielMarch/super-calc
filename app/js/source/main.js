@@ -36,7 +36,7 @@
         result = Math.sqrt(x);
         break;
       case 'exp':
-        result = Math.pow(x);
+        result = Math.pow(x,y);
         break;
       case 'fact':
         result = factorial(x);
